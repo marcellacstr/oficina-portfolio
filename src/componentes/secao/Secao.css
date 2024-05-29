@@ -1,0 +1,30 @@
+
+Container {
+    width: auto;
+}
+.secao {
+    background-color: aqua;
+    height: auto;
+    padding: 25px;
+  
+}
+
+.landpage{
+    background-color: #FFD4D0;
+    height: auto;
+    padding-top: 25px;
+    width: 100%;
+}
+
+.projetos{
+    background-color: #FFD4D0;
+    height: auto;
+    padding: 25px;
+ 
+}
+.educacao, .experiencias {
+    background-color:#FDF5F5;
+    height: auto;
+    padding: 40px;
+    
+}

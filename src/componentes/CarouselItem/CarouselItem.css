@@ -1,0 +1,17 @@
+.informacoesProjeto{
+    padding: 15px;
+    font-size: 18px;
+}
+.imagem{
+    height: 300px;
+    width: 600px;
+}
+
+.link{
+    color: #BF4937;
+    font-size: 18px;
+}
+
+.link:hover {
+    font-weight: bold;
+}

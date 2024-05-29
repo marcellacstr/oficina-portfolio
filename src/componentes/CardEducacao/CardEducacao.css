@@ -1,0 +1,17 @@
+.cardEducacao { 
+    padding: 5px 15px;
+    border: 1px solid #BF4937;
+    margin-bottom: 10px;
+}
+
+.cardEducacao > h2 {
+    font-weight: bold;
+}
+
+.cardEducacao > h3 {
+    font-weight: lighter;
+}
+
+.cardEducacao > p {
+    font-size: 18px;
+}
