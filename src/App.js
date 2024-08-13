@@ -3,6 +3,7 @@ import './App.css';
 import { Image } from '@mui/icons-material';
 import CarouselProjetos from './componentes/CarouselProjetos/CarouselProjetos';
 import Secao from './componentes/secao/Secao';
+import Experiencias from './componentes/Experiencias/Experiencias';
 import imagem from './assets/image.png'
 function App() {
   
@@ -22,7 +23,7 @@ function App() {
       </Secao>
 
       <Secao tipoSecao={'experiencias'}>
-        
+        <Experiencias/>
       </Secao>
 
     </>
